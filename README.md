@@ -1,4 +1,4 @@
-# Naruto Directors & Writers Rating Analysis.
+# THE THIRD PROJECT : Naruto Directors & Writers Rating Analysis.
 
 Fun study on Naruto, one of my childhood favourites.
 
@@ -6,7 +6,7 @@ Fun study on Naruto, one of my childhood favourites.
 
 I wanted to analyse all episodes of Naruto Shippuden and find out which directors and writes got the highest ratings, also wanted to find the type of episodes which got the better ratings (out of Canon, Mixed or Fillers) 
 
-(the column fr is "fair ratings" which is just the weighted average of ratings and the number of people who voted to keep it fair)
+(the column "fr" is "fair ratings" which is just the weighted average of ratings and the number of people who voted to keep it fair)
 
 ### Skills Learned
 
