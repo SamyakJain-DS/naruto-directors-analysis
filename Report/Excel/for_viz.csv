@@ -1,0 +1,532 @@
+"","episode_number_overall","director","writer","rating","votes","type","fr"
+"1",1,"Masaaki Kumagai","Satoru Nishizono",8.1,841,"Mixed Canon/Filler",3.01
+"2",2,"Atsushi Nigorikawa","Satoru Nishizono",7.9,650,"Mixed Canon/Filler",2.27
+"3",3,"Yuki Sugihara","Satoru Nishizono",7.9,573,"Mixed Canon/Filler",2
+"4",4,"Kiyomu Fukuda","Satoru Nishizono",8.2,580,"Mixed Canon/Filler",2.1
+"5",5,"Yuki Kinoshita","Satoru Nishizono",8.1,543,"Mixed Canon/Filler",1.94
+"6",6,"Mitsutaka Noshitani","Satoru Nishizono",8.1,538,"Mixed Canon/Filler",1.92
+"7",7,"Hayato Goda","Satoru Nishizono",7.7,513,"Mixed Canon/Filler",1.74
+"8",8,"Hiroshi Kimura","Satoru Nishizono",7.6,493,"Mixed Canon/Filler",1.65
+"9",9,"Masaaki Kumagai","Satoru Nishizono",7.5,487,"Mixed Canon/Filler",1.61
+"10",10,"Eitaro Ano","Satoru Nishizono",7.4,476,"Mixed Canon/Filler",1.55
+"11",11,"Atsushi Nigorikawa","Satoru Nishizono",7.6,482,"Mixed Canon/Filler",1.62
+"12",12,"Kiyomu Fukuda","Satoru Nishizono",7.8,481,"Mixed Canon/Filler",1.66
+"13",13,"Neko Okuma","Satoru Nishizono",8,489,"Mixed Canon/Filler",1.73
+"14",14,"Mitsutaka Noshitani","Satoru Nishizono",8.3,511,"Mixed Canon/Filler",1.87
+"15",15,"Hayato Date","Satoru Nishizono",8.3,507,"Mixed Canon/Filler",1.86
+"16",16,"Hiroshi Kimura","Satoru Nishizono",7.5,455,"Mixed Canon/Filler",1.51
+"17",17,"Masaaki Kumagai","Satoru Nishizono",7.7,455,"Mixed Canon/Filler",1.55
+"18",18,"Eitaro Ano","Satoru Nishizono",7.6,459,"Mixed Canon/Filler",1.54
+"19",19,"Atsushi Nigorikawa","Satoru Nishizono",7.7,452,"Mixed Canon/Filler",1.54
+"20",20,"Kiyomu Fukuda","Satoru Nishizono",8,481,"Manga Canon",1.7
+"21",21,"Neko Okuma","Satoru Nishizono",7.9,471,"Manga Canon",1.64
+"22",22,"Mitsutaka Noshitani","Satoru Nishizono",7.8,463,"Manga Canon",1.59
+"23",23,"Masaki Takano","Satoru Nishizono",7.7,461,"Manga Canon",1.57
+"24",24,"Hiroshi Kimura","Satoru Nishizono",7.9,468,"Mixed Canon/Filler",1.63
+"25",25,"Masaaki Kumagai","Satoru Nishizono",7.8,464,"Mixed Canon/Filler",1.6
+"26",26,"Atsushi Nigorikawa","Satoru Nishizono",8.7,724,"Manga Canon",2.78
+"27",27,"Eitaro Ano","Satoru Nishizono",8.4,613,"Manga Canon",2.27
+"28",28,"Kiyomu Fukuda","Satoru Nishizono",7,414,"Filler",1.28
+"29",29,"Yuki Kinoshita","Satoru Nishizono",8,454,"Manga Canon",1.6
+"30",30,"Shigeharu Takahashi","Satoru Nishizono",8.3,500,"Manga Canon",1.83
+"31",31,"Shinji Satou","Satoru Nishizono",8.7,747,"Manga Canon",2.87
+"32",32,"Hiroshi Kimura","Satoru Nishizono",7.8,451,"Manga Canon",1.55
+"33",33,"Masaaki Kumagai","Satoru Nishizono",7.6,421,"Manga Canon",1.41
+"34",34,"Eitaro Ano","Satoru Nishizono",7.2,405,"Manga Canon",1.29
+"35",35,"Masahiko Murata","Satoru Nishizono",7.2,408,"Manga Canon",1.3
+"36",36,"Kiyomu Fukuda","Satoru Nishizono",7.1,406,"Manga Canon",1.27
+"37",37,"Atsushi Nigorikawa","Satoru Nishizono",7.1,405,"Manga Canon",1.27
+"38",38,"Shigeharu Takahashi","Satoru Nishizono",7,405,"Manga Canon",1.25
+"39",39,"Masaki Takano","Satoru Nishizono",7.8,429,"Manga Canon",1.48
+"40",40,"Hiroshi Kimura","Satoru Nishizono",7.6,449,"Manga Canon",1.51
+"41",41,"Masaaki Kumagai","Satoru Nishizono",7.9,450,"Manga Canon",1.57
+"42",42,"Masahiko Murata","Satoru Nishizono",8.4,541,"Manga Canon",2.01
+"43",43,"Kunitoshi Okajima","Satoru Nishizono",7.8,425,"Manga Canon",1.46
+"44",44,"Kiyomu Fukuda","Satoru Nishizono",7.3,400,"Manga Canon",1.29
+"45",45,"Atsushi Nigorikawa","Satoru Nishizono",7.2,392,"Mixed Canon/Filler",1.25
+"46",46,"Shigeharu Takahashi","Satoru Nishizono",7.2,393,"Manga Canon",1.25
+"47",47,"Neko Okuma","Satoru Nishizono",7.3,392,"Manga Canon",1.26
+"48",48,"Hiroshi Kimura","Satoru Nishizono",7.1,398,"Manga Canon",1.25
+"49",49,"Shinji Satou","Satoru Nishizono",7.4,404,"Mixed Canon/Filler",1.32
+"50",50,"Eitaro Ano","Satoru Nishizono",7.3,386,"Mixed Canon/Filler",1.24
+"51",51,"Masaaki Kumagai","Satoru Nishizono",7.5,407,"Manga Canon",1.35
+"52",52,"Kiyomu Fukuda","Satoru Nishizono",7.9,445,"Manga Canon",1.55
+"53",53,"Atsushi Nigorikawa","Satoru Nishizono",7.4,410,"Manga Canon",1.34
+"54",54,"Shigeharu Takahashi","Yasuyuki Suzuki",7.4,404,"Mixed Canon/Filler",1.32
+"55",55,"Masahiko Murata","Yasuyuki Suzuki",7.8,406,"Manga Canon",1.4
+"56",56,"Hiroshi Kimura","Yasuyuki Suzuki",7.4,387,"Mixed Canon/Filler",1.26
+"57",57,"Masaki Takano","Yasuyuki Suzuki",6.8,304,"Filler",0.91
+"58",58,"Eitaro Ano","Yasuyuki Suzuki",6.5,303,"Filler",0.87
+"59",59,"Masaaki Kumagai","Junki Takegami",6.4,297,"Filler",0.84
+"60",60,"Kiyomu Fukuda","Junki Takegami",6.6,292,"Filler",0.85
+"61",61,"Atsushi Nigorikawa","Yasuyuki Suzuki",6.7,298,"Filler",0.88
+"62",62,"Shigeharu Takahashi","Yasuyuki Suzuki",6.5,296,"Filler",0.85
+"63",63,"Yuki Kinoshita","Masahiro Hikokubo",6.6,292,"Filler",0.85
+"64",64,"Hiroshi Kimura","Yasuyuki Suzuki",6.6,288,"Filler",0.84
+"65",65,"Shinji Satou","Masahiro Hikokubo",6.9,288,"Filler",0.88
+"66",66,"Eitaro Ano","Yasuyuki Suzuki",6.7,288,"Filler",0.85
+"67",67,"Masaaki Kumagai","Yasuyuki Suzuki",6.7,285,"Filler",0.84
+"68",67,"Masaaki Kumagai","Masahiro Hikokubo",6.7,285,"Filler",0.84
+"69",68,"Kiyomu Fukuda","Yasuyuki Suzuki",6.7,285,"Filler",0.84
+"70",69,"Masaki Takano","Masahiro Hikokubo",6.5,290,"Filler",0.83
+"71",70,"Shigeharu Takahashi","Yasuyuki Suzuki",6.6,292,"Filler",0.85
+"72",71,"Atsushi Nigorikawa","Yasuyuki Suzuki",6.5,304,"Filler",0.87
+"73",72,"Hiroshi Kimura","Masahiro Hikokubo",7.3,372,"Manga Canon",1.2
+"74",73,"Masaki Takuno","Masahiro Hikokubo",7.6,403,"Manga Canon",1.35
+"75",74,"Eitaro Ano","Masahiro Hikokubo",7.4,379,"Manga Canon",1.24
+"76",75,"Masaaki Kumagai","Yasuyuki Suzuki",7.3,374,"Manga Canon",1.21
+"77",76,"Kiyomu Fukuda","Yasuyuki Suzuki",7.6,389,"Manga Canon",1.31
+"78",77,"Yuki Kinoshita","Masahiro Hikokubo",8.2,431,"Manga Canon",1.56
+"79",78,"Shigeharu Takahashi","Masahiro Hikokubo",8.5,579,"Manga Canon",2.17
+"80",79,"Atsushi Nigorikawa","Masahiro Hikokubo",8.6,562,"Manga Canon",2.13
+"81",80,"Hiroshi Kimura","Masahiro Hikokubo",8.8,702,"Manga Canon",2.73
+"82",81,"Shinji Satou","Masahiro Hikokubo",8,418,"Manga Canon",1.48
+"83",82,"Toshiyuki Tsuru","Toshiyuki Tsuru",8.6,668,"Manga Canon",2.54
+"84",83,"Takahiro Ono","Yuka Miyata",8.2,421,"Manga Canon",1.52
+"85",84,"Kiyomu Fukuda","Yuka Miyata",8.5,488,"Manga Canon",1.83
+"86",85,"Toshiyuki Tsuru","Toshiyuki Tsuru",8.6,576,"Manga Canon",2.19
+"87",86,"Masaaki Kumagai","Yuka Miyata",8.8,659,"Manga Canon",2.56
+"88",87,"Shigeharu Takahashi","Yasuyuki Suzuki",8.9,833,"Manga Canon",3.27
+"89",88,"Atsushi Nigorikawa","Yasuyuki Suzuki",8.8,684,"Manga Canon",2.66
+"90",89,"Hiroshi Kimura","Yuka Miyata",7.6,385,"Mixed Canon/Filler",1.29
+"91",90,"Yuki Kinoshita","Junki Takegami",6.8,323,"Mixed Canon/Filler",0.97
+"92",91,"Yuusuke Onoda","Masahiro Hikokubo",6.9,295,"Filler",0.9
+"93",92,"Kunitoshi Okajima","Yasuyuki Suzuki",6.6,290,"Filler",0.84
+"94",93,"Masaaki Kumagai","Shin Yoshida",6.4,287,"Filler",0.81
+"95",93,"Masaaki Kumagai","Yasuyuki Suzuki",6.4,287,"Filler",0.81
+"96",94,"Kiyomu Fukuda","Shin Yoshida",6.3,277,"Filler",0.77
+"97",95,"Atsushi Nigorikawa","Shin Yoshida",6.3,278,"Filler",0.77
+"98",95,"Atsushi Nigorikawa","Yuka Miyata",6.3,278,"Filler",0.77
+"99",96,"Shigeharu Takahashi","Yuka Miyata",6.5,272,"Filler",0.78
+"100",97,"Yuki Kinoshita","Junki Takegami",6.8,273,"Filler",0.82
+"101",98,"Hiroshi Kimura","Shin Yoshida",6.8,272,"Filler",0.82
+"102",99,"Yuusuke Onoda","Shin Yoshida",6.8,275,"Filler",0.83
+"103",100,"Kunitoshi Okajima","Junki Takegami",6.5,272,"Filler",0.78
+"104",100,"Kunitoshi Okajima","Shin Yoshida",6.5,272,"Filler",0.78
+"105",101,"Masaaki Kumagai","Yuka Miyata",6.4,270,"Filler",0.76
+"106",102,"Kiyomu Fukuda","Junki Takegami",6.4,271,"Filler",0.77
+"107",102,"Kiyomu Fukuda","Yuka Miyata",6.4,271,"Filler",0.77
+"108",103,"Atsushi Nigorikawa","Masahiro Hikokubo",6.7,269,"Filler",0.8
+"109",104,"Shigeharu Takahashi","Shin Yoshida",6.8,265,"Filler",0.8
+"110",104,"Shigeharu Takahashi","Junki Takegami",6.8,265,"Filler",0.8
+"111",105,"Yuki Kinoshita","Yuka Miyata",6.4,271,"Filler",0.77
+"112",106,"Hiroshi Kimura","Masahiro Hikokubo",6.6,270,"Filler",0.79
+"113",107,"Toshiaki Kanbara","Yasuyuki Suzuki",6.5,267,"Filler",0.77
+"114",108,"Kunitoshi Okajima","Shin Yoshida",6.4,265,"Filler",0.75
+"115",109,"Shigeharu Takahashi","Junki Takegami",6.3,263,"Filler",0.73
+"116",110,"Kiyomu Fukuda","Junki Takegami",6.6,266,"Filler",0.78
+"117",111,"Yuki Kinoshita","Junki Takegami",6.7,268,"Filler",0.79
+"118",112,"Shigeharu Takahashi","Yuka Miyata",6.8,281,"Filler",0.84
+"119",112,"Shigeharu Takahashi","Junki Takegami",6.8,281,"Filler",0.84
+"120",113,"Masayuki Matsumoto","Masahiro Hikokubo",7.8,387,"Manga Canon",1.33
+"121",114,"Hiroshi Kimura","Masahiro Hikokubo",8.1,405,"Manga Canon",1.45
+"122",115,"Shuu Watanabe","Shin Yoshida",7.4,358,"Mixed Canon/Filler",1.17
+"123",116,"Kunitoshi Okajima","Yasuyuki Suzuki",7.1,346,"Manga Canon",1.08
+"124",117,"Yuki Arie","Shin Yoshida",7.3,340,"Manga Canon",1.1
+"125",118,"Kiyomu Fukuda","Shin Yoshida",7.2,346,"Manga Canon",1.1
+"126",119,"Yasumi Mikamoto","Junki Takegami",8.7,722,"Manga Canon",2.77
+"127",120,"Masahiro Takada","Junki Takegami",9.2,1111,"Manga Canon",4.51
+"128",121,"Masayuki Matsumoto","Yuka Miyata",7.7,385,"Manga Canon",1.31
+"129",122,"Hiroshi Kimura","Yuka Miyata",7.7,374,"Manga Canon",1.27
+"130",123,"Toshiyuki Tsuru","Toshiyuki Tsuru",8.5,529,"Manga Canon",1.98
+"131",124,"Kunitoshi Okajima","Junki Takegami",8.5,575,"Manga Canon",2.16
+"132",125,"Yuki Kinoshita","Yasuyuki Suzuki",8.1,423,"Manga Canon",1.51
+"133",126,"Kiyomu Fukuda","Masahiro Hikokubo",8.3,446,"Manga Canon",1.63
+"134",127,"Shuu Watanabe","Junki Takegami",8,402,"Mixed Canon/Filler",1.42
+"135",128,"Shigeharu Takahashi","Junki Takegami",8.5,496,"Mixed Canon/Filler",1.86
+"136",129,"Yuusuke Onoda","Shin Yoshida",8,393,"Manga Canon",1.39
+"137",130,"Hiroshi Kimura","Shin Yoshida",8.5,513,"Manga Canon",1.92
+"138",131,"Akitoshi Yokoyama","Yasuyuki Suzuki",8.8,753,"Manga Canon",2.93
+"139",132,"Fujiaki Asari","Yuka Miyata",9,921,"Manga Canon",3.66
+"140",133,"Masaaki Kumagai","Junki Takegami",9.6,3199,"Manga Canon",13.56
+"141",134,"Kiyomu Fukuda","Masahiro Hikokubo",8.2,429,"Manga Canon",1.55
+"142",135,"Atsushi Nigorikawa","Shin Yoshida",8.2,449,"Manga Canon",1.63
+"143",136,"Shigeharu Takahashi","Yasuyuki Suzuki",8.9,847,"Manga Canon",3.33
+"144",137,"Yuusuke Onoda","Yuka Miyata",9.1,1032,"Manga Canon",4.15
+"145",138,"Masahiko Murata","Masahiro Hikokubo",9.4,1566,"Manga Canon",6.5
+"146",139,"Hiroshi Kimura","Shin Yoshida",8.5,546,"Manga Canon",2.05
+"147",140,"Minoru Yamaoka","Yasuyuki Suzuki",8.9,838,"Manga Canon",3.29
+"148",141,"Shuu Watanabe","Yuka Miyata",9.1,985,"Manga Canon",3.96
+"149",142,"Kiyomu Fukuda","Yasuyuki Suzuki",7.8,363,"Manga Canon",1.25
+"150",143,"Atsushi Nigorikawa","Shin Yoshida",8.5,532,"Manga Canon",2
+"151",144,"Masaaki Kumagai","Junki Takegami",6.2,262,"Filler",0.72
+"152",145,"Shigeharu Takahashi","Shin Yoshida",6.2,256,"Filler",0.7
+"153",146,"Hiroshi Kimura","Yuka Miyata",6.3,249,"Filler",0.69
+"154",147,"Yuki Kinoshita","Yasuyuki Suzuki",6.3,251,"Filler",0.7
+"155",148,"Eiko Nishi","Shin Yoshida",6.1,247,"Filler",0.67
+"156",149,"Shuu Watanabe","Masahiro Hikokubo",6.3,245,"Filler",0.68
+"157",150,"Kiyomu Fukuda","Yasuyuki Suzuki",6.4,250,"Filler",0.71
+"158",151,"Yuusuke Onoda","Yasuyuki Suzuki",6.5,257,"Filler",0.74
+"159",152,"Naoki Horiuchi","Yuka Miyata",8.1,392,"Manga Canon",1.4
+"160",153,"Masaaki Kumagai","Yuka Miyata",8.4,457,"Manga Canon",1.69
+"161",154,"Shigeharu Takahashi","Shin Yoshida",7.8,372,"Manga Canon",1.28
+"162",155,"Hiroshi Kimura","Shin Yoshida",7.8,372,"Manga Canon",1.28
+"163",156,"Yuki Kinoshita","Yuka Miyata",7.6,369,"Manga Canon",1.24
+"164",157,"Hideyuki Yoshida","Masahiro Hikokubo",8,393,"Manga Canon",1.39
+"165",158,"Kiyomu Fukuda","Shin Yoshida",8.3,429,"Manga Canon",1.57
+"166",159,"Yoshihiro Sugai","Yuka Miyata",9.1,1082,"Manga Canon",4.35
+"167",160,"Naoki Horiuchi","Yasuyuki Suzuki",8.3,440,"Manga Canon",1.61
+"168",161,"Shigeharu Takahashi","Masahiro Hikokubo",8.4,481,"Manga Canon",1.78
+"169",162,"Masaaki Kumagai","Shin Yoshida",9.1,963,"Manga Canon",3.87
+"170",163,"Yuki Kinoshita","Masahiro Hikokubo",9.1,965,"Manga Canon",3.88
+"171",164,"Yasuhiro Minami","Shin Yoshida",9.3,1375,"Manga Canon",5.65
+"172",165,"Hiroshi Kimura","Shin Yoshida",9.2,1182,"Manga Canon",4.8
+"173",166,"Toshiyuki Tsuru","Toshiyuki Tsuru",9.4,1538,"Manga Canon",6.38
+"174",167,"Atsushi Wakabayashi","Yuka Miyata",9.4,1691,"Manga Canon",7.02
+"175",168,"Kiyomu Fukuda","Masahiro Hikokubo",9.4,1592,"Manga Canon",6.61
+"176",169,"Yoshihiro Sugai","Shin Yoshida",8.5,516,"Manga Canon",1.94
+"177",170,"Naoki Horiuchi","Junki Takegami",6,260,"Filler",0.69
+"178",171,"Yuki Kinoshita","Junki Takegami",6,258,"Filler",0.68
+"179",172,"Takahiro Okao","Shin Yoshida",7.9,393,"Manga Canon",1.37
+"180",173,"Masaaki Kumagai","Masahiro Hikokubo",8.5,493,"Manga Canon",1.85
+"181",174,"Kanryou Kishikawa","Yasuyuki Suzuki",8.6,577,"Manga Canon",2.19
+"182",175,"Hiroshi Kimura","Yuka Miyata",9.3,1292,"Manga Canon",5.3
+"183",176,"Kiyomu Fukuda","Shin Yoshida",6.8,263,"Filler",0.79
+"184",177,"Naoki Horiuchi","Shin Yoshida",6.7,253,"Filler",0.75
+"185",178,"Atsushi Nigorikawa","Shin Yoshida",6.7,253,"Filler",0.75
+"186",179,"Hiroshi Kimura","Junki Takegami",6.5,253,"Filler",0.73
+"187",180,"Gorou Sessha","Yuka Miyata",5.8,250,"Filler",0.64
+"188",181,"Shuu Watanabe","Yasuyuki Suzuki",5.8,246,"Filler",0.63
+"189",182,"Kanryou Kishikawa","Masahiro Hikokubo",6.5,245,"Filler",0.7
+"190",183,"Maki Odaira","Daisuke Watanabe",5.9,242,"Filler",0.63
+"191",184,"Shigeru Mita","Katsuhiko Chiba",5.9,231,"Filler",0.6
+"192",185,"Kiyomu Fukuda","Katsuhiko Chiba",5.2,251,"Filler",0.58
+"193",186,"Masaaki Kumagai","Daisuke Watanabe",5.8,231,"Filler",0.59
+"194",187,"Atsushi Nigorikawa","Junki Takegami",6,233,"Filler",0.62
+"195",188,"Naoki Horiuchi","Junki Takegami",6.1,228,"Filler",0.61
+"196",189,"Hiroshi Kimura","Masahiro Hikokubo",5.6,231,"Filler",0.57
+"197",190,"Maki Odaira","Katsuhiko Chiba",6.2,238,"Filler",0.65
+"198",191,"Shuu Watanabe","Yasuyuki Suzuki",6.3,236,"Filler",0.66
+"199",192,"Kanryou Kishikawa","Yuka Miyata",6,232,"Filler",0.61
+"200",193,"Chiyuki Tanaka","Shin Yoshida",6.1,232,"Filler",0.62
+"201",194,"Gorou Sessha","Yasuyuki Suzuki",6.1,239,"Filler",0.64
+"202",195,"Hiroyuki Tsuchiya","Masahiro Hikokubo",5.8,231,"Filler",0.59
+"203",196,"Hiroshi Kimura","Daisuke Watanabe",5.9,233,"Filler",0.61
+"204",197,"Masaaki Kumagai","Katsuhiko Chiba",7.5,341,"Manga Canon",1.13
+"205",198,"Atsushi Nigorikawa","Yuka Miyata",7.6,337,"Manga Canon",1.13
+"206",199,"Naoki Horiuchi","Katsuhiko Chiba",7.5,334,"Manga Canon",1.11
+"207",200,"Shuu Watanabe","Shin Yoshida",7.6,346,"Manga Canon",1.16
+"208",201,"Maki Odaira","Yasuyuki Suzuki",8,354,"Manga Canon",1.25
+"209",202,"Shigeru Mita","Katsuhiko Chiba",8.2,366,"Manga Canon",1.32
+"210",203,"Kanryou Kishikawa","Yasuyuki Suzuki",8.4,401,"Manga Canon",1.49
+"211",204,"Ken'ichi Nishida","Yuka Miyata",8.3,378,"Manga Canon",1.39
+"212",205,"Kiyomu Fukuda","Masahiro Hikokubo",8.2,368,"Manga Canon",1.33
+"213",206,"Hiroshi Kimura","Shin Yoshida",7.3,366,"Manga Canon",1.18
+"214",207,"Naoki Horiuchi","Katsuhiko Chiba",8.2,370,"Manga Canon",1.34
+"215",208,"Shuu Watanabe","Yasuyuki Suzuki",7.7,352,"Manga Canon",1.2
+"216",209,"Yoshihiro Sugai","Daisuke Watanabe",8.5,529,"Manga Canon",1.98
+"217",210,"Masato Kitagawa","Shin Yoshida",8.4,433,"Manga Canon",1.61
+"218",211,"Ken'ichi Nishida","Katsuhiko Chiba",8.6,583,"Manga Canon",2.21
+"219",211,"Hayato Date","Katsuhiko Chiba",8.6,583,"Manga Canon",2.21
+"220",212,"Hideaki Uehara","Yasuyuki Suzuki",6.8,325,"Manga Canon",0.98
+"221",213,"Mitsutoshi Satou","Daisuke Watanabe",6.2,325,"Mixed Canon/Filler",0.89
+"222",214,"Kiyomu Fukuda","Masahiro Hikokubo",7,330,"Manga Canon",1.02
+"223",215,"Hiroshi Kimura","Shin Yoshida",7.3,337,"Manga Canon",1.09
+"224",216,"Ken'ichi Nishida","Shin Yoshida",7.5,359,"Manga Canon",1.19
+"225",217,"Daisuke Tsukushi","Katsuhiko Chiba",7.4,333,"Manga Canon",1.09
+"226",218,"Masato Kitagawa","Yuka Miyata",7.1,332,"Manga Canon",1.04
+"227",219,"Yoshihiro Sugai","Katsuhiko Chiba",8,383,"Manga Canon",1.35
+"228",220,"Kanryou Kishikawa","Yasuyuki Suzuki",7.2,323,"Manga Canon",1.03
+"229",221,"Naoki Horiuchi","Masahiro Hikokubo",7.8,340,"Manga Canon",1.17
+"230",222,"Kiyomu Fukuda","Shin Yoshida",7.1,316,"Manga Canon",0.99
+"231",223,"Mitsutoshi Satou","Junki Takegami",5.8,247,"Filler",0.63
+"232",224,"Yoshihiro Sugai","Katsuhiko Chiba",5.6,239,"Filler",0.59
+"233",224,"Hiroshi Kataoka","Katsuhiko Chiba",5.6,239,"Filler",0.59
+"234",225,"Yutaka Kagawa","Masahiro Hikokubo",5.4,241,"Filler",0.57
+"235",226,"Maki Odaira","Yasuyuki Suzuki",5.1,264,"Filler",0.59
+"236",227,"Masahito Otani","Katsuhiko Chiba",5.5,238,"Filler",0.58
+"237",228,"Kanryou Kishikawa","Masahiro Hikokubo",5.4,235,"Filler",0.56
+"238",229,"Kiyomu Fukuda","Shin Yoshida",5.3,243,"Filler",0.57
+"239",230,"Hiroshi Kataoka","Yasuyuki Suzuki",5.6,236,"Filler",0.58
+"240",230,"Yoshihiro Sugai","Yasuyuki Suzuki",5.6,236,"Filler",0.58
+"241",231,"Ken'ichi Nishida","Junki Takegami",5.4,233,"Filler",0.56
+"242",231,"Ken'ichi Nishida","Daisuke Watanabe",5.4,233,"Filler",0.56
+"243",232,"Shuu Watanabe","Katsuhiko Chiba",6.5,239,"Filler",0.69
+"244",233,"Naoki Horiuchi","Shin Yoshida",5.5,230,"Filler",0.56
+"245",234,"Gorou Sessha","Junki Takegami",6.2,246,"Filler",0.67
+"246",235,"Jun'ichi Fujise","Yuka Miyata",5.8,233,"Filler",0.6
+"247",236,"Tomoya Tanaka","Shin Yoshida",5.9,227,"Filler",0.59
+"248",237,"Hisashi Ishii","Katsuhiko Chiba",6.1,226,"Filler",0.61
+"249",238,"Masaaki Kumagai","Yasuyuki Suzuki",5.9,230,"Filler",0.6
+"250",239,"Kiyomu Fukuda","Masahiro Hikokubo",6.1,233,"Filler",0.63
+"251",240,"Ken'ichi Nishida","Daisuke Watanabe",5.8,230,"Filler",0.59
+"252",241,"Yuusuke Onoda","Junki Takegami",6.7,248,"Filler",0.73
+"253",242,"Naoki Horiuchi","Yuka Miyata",6.3,233,"Filler",0.65
+"254",243,"Hiroshi Yamazaki","Katsuhiko Chiba",7,325,"Manga Canon",1
+"255",244,"Hideki Takayama","Shin Yoshida",7,335,"Manga Canon",1.04
+"256",245,"Kanryou Kishikawa","Junki Takegami",8.2,394,"Manga Canon",1.43
+"257",246,"Masahiko Murata","Yasuyuki Suzuki",8.8,727,"Manga Canon",2.82
+"258",247,"Hisashi Ishii","Junki Takegami",8.8,716,"Manga Canon",2.78
+"259",248,"Masaaki Kumagai","Junki Takegami",9.5,1586,"Manga Canon",6.65
+"260",249,"Chikara Sakurai","Junki Takegami",9.5,1849,"Manga Canon",7.75
+"261",250,"Kiyomu Fukuda","Masahiro Hikokubo",7.9,381,"Manga Canon",1.33
+"262",251,"Ken'ichi Nishida","Shin Yoshida",8.3,406,"Manga Canon",1.49
+"263",252,"Hayato Date","Katsuhiko Chiba",8,394,"Manga Canon",1.39
+"264",253,"Yuusuke Onoda","Katsuhiko Chiba",8.5,527,"Manga Canon",1.98
+"265",254,"Kanryou Kishikawa","Yasuyuki Suzuki",6.7,302,"Manga Canon",0.89
+"266",255,"Hideki Takayama","Yasuyuki Suzuki",7.5,317,"Manga Canon",1.05
+"267",256,"Hisashi Ishii","Masahiro Hikokubo",8.3,451,"Manga Canon",1.65
+"268",257,"Shigeki Kawai","Junki Takegami",6.1,230,"Filler",0.62
+"269",258,"Kiyomu Fukuda","Junki Takegami",5.7,222,"Filler",0.56
+"270",259,"Noriyuki Abe","Junki Takegami",5.6,226,"Filler",0.56
+"271",260,"Yuusuke Onoda","Katsuhiko Chiba",6,224,"Filler",0.59
+"272",261,"Naoki Horiuchi","Masahiro Hikokubo",7.7,351,"Manga Canon",1.19
+"273",262,"Masaaki Kumagai","Shin Yoshida",8.1,342,"Manga Canon",1.22
+"274",263,"Hisashi Ishii","Shin Yoshida",7.9,327,"Manga Canon",1.14
+"275",264,"Kiyomu Fukuda","Yasuyuki Suzuki",7.8,321,"Manga Canon",1.11
+"276",265,"Yuusuke Onoda","Shin Yoshida",7.8,330,"Manga Canon",1.14
+"277",266,"Kanryou Kishikawa","Shin Yoshida",8,343,"Manga Canon",1.21
+"278",267,"Hideki Takayama","Masahiro Hikokubo",7.5,306,"Manga Canon",1.01
+"279",268,"Hisashi Ishii","Masahiro Hikokubo",7.6,308,"Manga Canon",1.03
+"280",269,"Katsumi Ono","Masahiro Hikokubo",7.8,312,"Manga Canon",1.07
+"281",270,"Shigeki Kawai","Masahiro Hikokubo",7.9,314,"Manga Canon",1.1
+"282",271,"Yuusuke Onoda","Yuka Miyata",5.8,248,"Filler",0.63
+"283",272,"Tsuneo Tominaga","Katsuhiko Chiba",7.8,335,"Manga Canon",1.15
+"284",273,"Kanryou Kishikawa","Yasuyuki Suzuki",7.3,306,"Manga Canon",0.99
+"285",274,"Kiyomu Fukuda","Yasuyuki Suzuki",7.5,314,"Manga Canon",1.04
+"286",275,"Mitsutaka Noshitani","Shin Yoshida",8,338,"Manga Canon",1.19
+"287",276,"Hideki Takayama","Katsuhiko Chiba",7.8,307,"Manga Canon",1.06
+"288",277,"Masaaki Kumagai","Masahiro Hikokubo",7.3,302,"Manga Canon",0.97
+"289",278,"Tsuneo Tominaga","Yasuyuki Suzuki",7.4,299,"Manga Canon",0.98
+"290",279,"Yuusuke Onoda","Shin Yoshida",7.1,239,"Filler",0.75
+"291",280,"Shigeki Kawai","Katsuhiko Chiba",6.8,232,"Filler",0.7
+"292",281,"Kiyomu Fukuda","Yasuyuki Suzuki",5.4,228,"Filler",0.54
+"293",282,"Hisashi Ishii","Masahiro Hikokubo",7.7,306,"Manga Canon",1.04
+"294",283,"Jun Nakagawa","Masahiro Hikokubo",8.1,337,"Manga Canon",1.21
+"295",284,"Kanryou Kishikawa","Junki Takegami",7.3,232,"Filler",0.75
+"296",285,"Masaaki Kumagai","Katsuhiko Chiba",6.7,223,"Filler",0.66
+"297",286,"Mitsutaka Noshitani","Junki Takegami",6.5,214,"Filler",0.61
+"298",287,"Sumito Sasaki","Junki Takegami",6.3,215,"Filler",0.6
+"299",288,"Kiyomu Fukuda","Masahiro Hikokubo",6.6,228,"Filler",0.66
+"300",289,"Yoshihide Ibata","Shin Yoshida",6.7,227,"Filler",0.67
+"301",290,"Toshiyuki Tsuru","Toshiyuki Tsuru",6.6,241,"Filler",0.7
+"302",291,"Masaaki Kumagai","Toshiyuki Tsuru",6.4,229,"Filler",0.65
+"303",291,"Chikara Sakurai","Toshiyuki Tsuru",6.4,229,"Filler",0.65
+"304",291,"Toshiyuki Tsuru","Toshiyuki Tsuru",6.4,229,"Filler",0.65
+"305",292,"Yuu Yamashita","Toshiyuki Tsuru",6.8,237,"Filler",0.71
+"306",293,"Toshiyuki Tsuru","Toshiyuki Tsuru",6.4,231,"Filler",0.65
+"307",294,"Kazunori Mizuno","Toshiyuki Tsuru",6.6,234,"Filler",0.68
+"308",295,"Toshiyuki Tsuru","Toshiyuki Tsuru",7.1,257,"Filler",0.81
+"309",296,"Jun Nakagawa","Yasuyuki Suzuki",7.7,356,"Manga Canon",1.21
+"310",297,"Mitsutaka Noshitani","Shin Yoshida",8.3,409,"Manga Canon",1.5
+"311",298,"Sumito Sasaki","Yasuyuki Suzuki",8.8,674,"Manga Canon",2.62
+"312",299,"Hidetoshi Takahashi","Yasuyuki Suzuki",8.5,485,"Manga Canon",1.82
+"313",300,"Shigeki Kawai","Katsuhiko Chiba",8,338,"Manga Canon",1.19
+"314",301,"Hisashi Ishii","Masahiro Hikokubo",8.2,360,"Manga Canon",1.3
+"315",302,"Kanryou Kishikawa","Junki Takegami",7.7,304,"Manga Canon",1.03
+"316",303,"Kazunori Mizuno","Masahiro Hikokubo",6.7,232,"Filler",0.69
+"317",304,"Yoshihide Ibata","Masahiro Hikokubo",6.4,229,"Filler",0.65
+"318",305,"Jun Nakagawa","Masahiro Hikokubo",6.6,223,"Filler",0.65
+"319",306,"Shigeki Kawai","Shin Yoshida",6.2,225,"Filler",0.62
+"320",307,"Sumito Sasaki","Yuka Miyata",6.4,234,"Filler",0.66
+"321",308,"Hidetoshi Takahashi","Yuka Miyata",6.4,222,"Filler",0.63
+"322",309,"Mitsutaka Noshitani","Katsuhiko Chiba",5.5,213,"Filler",0.52
+"323",310,"Masaaki Kumagai","Katsuhiko Chiba",5.7,210,"Filler",0.53
+"324",311,"Kazunori Mizuno","Yuka Miyata",7.5,287,"Filler",0.95
+"325",312,"Naoki Horiuchi","Hideto Tanaka",5.6,218,"Filler",0.54
+"326",313,"Kanryou Kishikawa","Yasuyuki Suzuki",5,240,"Filler",0.53
+"327",314,"Fumiaki Usui","Yasuyuki Suzuki",5.2,222,"Filler",0.51
+"328",315,"Hisashi Ishii","Yasuyuki Suzuki",5.8,216,"Filler",0.55
+"329",316,"Sumito Sasaki","Katsuhiko Chiba",6.2,223,"Filler",0.61
+"330",317,"Shigeki Kawai","Katsuhiko Chiba",6.6,224,"Filler",0.65
+"331",318,"Hiroaki Nishimura","Shin Yoshida",6.2,217,"Filler",0.59
+"332",319,"Kazunori Mizuno","Masahiro Hikokubo",6.7,229,"Filler",0.68
+"333",320,"Kazuma Satou","Yasuyuki Suzuki",6.3,234,"Filler",0.65
+"334",321,"Naoki Horiuchi","Katsuhiko Chiba",8,357,"Manga Canon",1.26
+"335",322,"Hiroyuki Yamashita","Shin Yoshida",9.5,2260,"Manga Canon",9.48
+"336",323,"Yoshihiro Sugai","Yuka Miyata",8.8,609,"Manga Canon",2.37
+"337",324,"Masaaki Kumagai","Junki Takegami",7.7,340,"Mixed Canon/Filler",1.16
+"338",325,"Hisashi Ishii","Yasuyuki Suzuki",8.1,344,"Manga Canon",1.23
+"339",326,"Naomi Nakayama","Katsuhiko Chiba",8.2,351,"Manga Canon",1.27
+"340",327,"Hiroaki Nishimura","Yuka Miyata",7.2,344,"Mixed Canon/Filler",1.09
+"341",328,"Shigeki Kawai","Yuka Miyata",7.8,390,"Mixed Canon/Filler",1.34
+"342",329,"Kazunori Mizuno","Shin Yoshida",9,856,"Manga Canon",3.4
+"343",330,"Chikao Tominaga","Masahiro Hikokubo",7.7,322,"Mixed Canon/Filler",1.09
+"344",331,"Naoki Horiuchi","Katsuhiko Chiba",6.9,309,"Mixed Canon/Filler",0.94
+"345",332,"Masaaki Kumagai","Yasuyuki Suzuki",8.1,343,"Manga Canon",1.23
+"346",333,"Shigeru Ishii","Shin Yoshida",8.3,369,"Manga Canon",1.35
+"347",334,"Kazunori Mizuno","Katsuhiko Chiba",8.2,364,"Manga Canon",1.32
+"348",335,"Mitsutaka Noshitani","Yasuyuki Suzuki",7.7,327,"Manga Canon",1.11
+"349",336,"Shigeki Kawai","Masahiro Hikokubo",7.7,327,"Manga Canon",1.11
+"350",337,"Hiroaki Nishimura","Masahiro Hikokubo",8.2,371,"Manga Canon",1.34
+"351",338,"Kazunori Mizuno","Masahiro Hikokubo",8.2,378,"Mixed Canon/Filler",1.37
+"352",339,"Atsushi Nigorikawa","Yuka Miyata",9.4,1644,"Manga Canon",6.82
+"353",340,"Eiko Nishi","Katsuhiko Chiba",8.3,375,"Manga Canon",1.37
+"354",341,"Naoki Horiuchi","Yasuyuki Suzuki",8,345,"Manga Canon",1.22
+"355",342,"Masaaki Kumagai","Shin Yoshida",8.6,462,"Manga Canon",1.75
+"356",343,"Kazuya Iwata","Masahiro Hikokubo",8.9,766,"Manga Canon",3.01
+"357",344,"Kazunori Mizuno","Yasuyuki Suzuki",8.7,658,"Manga Canon",2.53
+"358",345,"Hiroyuki Yamashita","Katsuhiko Chiba",9.4,1610,"Manga Canon",6.68
+"359",346,"Eiko Nishi","Shin Yoshida",8.2,357,"Mixed Canon/Filler",1.29
+"360",347,"Sekito Kanno","Shin Yoshida",7.6,295,"Filler",0.99
+"361",348,"Atsushi Nigorikawa","Shin Yoshida",8,313,"Filler",1.11
+"362",349,"Naoki Horiuchi","Junki Takegami",7.8,274,"Filler",0.94
+"363",350,"Daisuke Kurose","Junki Takegami",7.9,295,"Filler",1.03
+"364",351,"Kazuya Iwata","Junki Takegami",7.3,243,"Filler",0.78
+"365",352,"Yoshihiko Iwata","Yasuyuki Suzuki",7,240,"Filler",0.74
+"366",353,"Masaaki Kumagai","Yasuyuki Suzuki",6.8,229,"Filler",0.69
+"367",354,"Naoki Hishikawa","Yasuyuki Suzuki",6.9,230,"Filler",0.7
+"368",355,"Naoki Horiuchi","Katsuhiko Chiba",7.2,241,"Filler",0.77
+"369",356,"Kazunori Mizuno","Katsuhiko Chiba",7.3,244,"Filler",0.79
+"370",357,"Takuma Suzuki","Katsuhiko Chiba",7.7,266,"Filler",0.9
+"371",358,"Atsushi Nigorikawa","Katsuhiko Chiba",8.2,342,"Filler",1.24
+"372",359,"Fukutarou Hattori","Katsuhiko Chiba",8,289,"Filler",1.02
+"373",360,"Daisuke Kurose","Masahiro Hikokubo",7.6,255,"Filler",0.86
+"374",361,"Masayuki Yamada","Masahiro Hikokubo",8,293,"Filler",1.03
+"375",362,"Takuma Suzuki","Junki Takegami",8.6,545,"Mixed Canon/Filler",2.07
+"376",363,"Gorou Sessha","Hideto Tanaka",9,695,"Manga Canon",2.76
+"377",364,"Masaaki Kumagai","Shin Yoshida",9.4,1212,"Manga Canon",5.03
+"378",365,"Naoki Horiuchi","Katsuhiko Chiba",9.1,786,"Manga Canon",3.16
+"379",366,"Kazunori Mizuno","Masahiro Hikokubo",9.2,959,"Manga Canon",3.89
+"380",367,"Kazuya Iwata","Shin Yoshida",8.6,548,"Manga Canon",2.08
+"381",368,"Atsushi Nigorikawa","Shin Yoshida",8.9,630,"Manga Canon",2.48
+"382",369,"Yoshihiko Iwata","Masahiro Hikokubo",8.7,581,"Manga Canon",2.23
+"383",370,"Yoshihiro Yanagiya","Masahiro Hikokubo",8.8,624,"Manga Canon",2.42
+"384",371,"Masayuki Yamada","Katsuhiko Chiba",8.5,469,"Manga Canon",1.76
+"385",372,"Masaaki Kumagai","Katsuhiko Chiba",9.3,1027,"Manga Canon",4.22
+"386",372,"Masaaki Kumagai","Yuka Miyata",9.3,1027,"Manga Canon",4.22
+"387",373,"Takuma Suzuki","Yuka Miyata",8.6,548,"Manga Canon",2.08
+"388",374,"Naoki Horiuchi","Yasuyuki Suzuki",8.6,483,"Manga Canon",1.83
+"389",375,"Hiroyuki Yamashita","Yasuyuki Suzuki",9.6,2301,"Manga Canon",9.75
+"390",375,"Hiroyuki Yamashita","Shin Yoshida",9.6,2301,"Manga Canon",9.75
+"391",376,"Kazuya Iwata","Yasuyuki Suzuki",4.3,293,"Filler",0.56
+"392",377,"Kazunori Mizuno","Yasuyuki Suzuki",3.8,393,"Filler",0.66
+"393",378,"Takuma Suzuki","Shin Yoshida",8.6,490,"Manga Canon",1.86
+"394",379,"Atsushi Nigorikawa","Katsuhiko Chiba",8.9,598,"Manga Canon",2.35
+"395",380,"Masayuki Yamada","Yasuyuki Suzuki",8.7,542,"Manga Canon",2.08
+"396",381,"Yoshihiro Yanagiya","Yuka Miyata",8.8,582,"Manga Canon",2.26
+"397",382,"Takuma Suzuki","Masahiro Hikokubo",8.7,475,"Manga Canon",1.82
+"398",383,"Masaaki Kumagai","Katsuhiko Chiba",8.5,399,"Manga Canon",1.5
+"399",384,"Naoki Horiuchi","Yasuyuki Suzuki",8.7,554,"Manga Canon",2.13
+"400",385,"Kazunori Mizuno","Junki Takegami",8,349,"Mixed Canon/Filler",1.23
+"401",385,"Kazunori Mizuno","Shin Yoshida",8,349,"Mixed Canon/Filler",1.23
+"402",386,"Kazuya Iwata","Junki Takegami",7.8,302,"Mixed Canon/Filler",1.04
+"403",386,"Kazuya Iwata","Shin Yoshida",7.8,302,"Mixed Canon/Filler",1.04
+"404",387,"Atsushi Nigorikawa","Yuka Miyata",8.3,367,"Manga Canon",1.34
+"405",388,"Yoshihiko Iwata","Masahiro Hikokubo",6.3,222,"Filler",0.62
+"406",389,"Maki Odaira","Yuka Miyata",6.2,195,"Filler",0.53
+"407",390,"Kiyoshi Murayama","Yuka Miyata",6.6,197,"Filler",0.57
+"408",391,"Masaaki Kumagai","Yasuyuki Suzuki",8.9,682,"Manga Canon",2.68
+"409",392,"Masayuki Yamada","Katsuhiko Chiba",8.8,631,"Manga Canon",2.45
+"410",393,"Kazunori Mizuno","Shin Yoshida",9.1,861,"Manga Canon",3.46
+"411",394,"Naoki Horiuchi","Junki Takegami",6.4,198,"Filler",0.56
+"412",395,"Taisuke Mamoru","Junki Takegami",6.1,188,"Filler",0.51
+"413",396,"Kazuya Iwata","Katsuhiko Chiba",6.7,189,"Filler",0.56
+"414",397,"Atsushi Nigorikawa","Katsuhiko Chiba",6.7,185,"Filler",0.55
+"415",398,"Tsuneo Tominaga","Shin Yoshida",6.4,185,"Filler",0.52
+"416",399,"Tokuji Kaneko","Shin Yoshida",6.2,185,"Filler",0.51
+"417",400,"Kentarou Fujita","Shin Yoshida",6.1,187,"Filler",0.5
+"418",401,"Kazunori Mizuno","Shin Yoshida",7,198,"Filler",0.61
+"419",402,"Tsuneo Tominaga","Yasuyuki Suzuki",5.9,187,"Filler",0.49
+"420",403,"Masayuki Yamada","Yasuyuki Suzuki",5.9,186,"Filler",0.48
+"421",404,"Akira Shimizu","Katsuhiko Chiba",5.7,183,"Filler",0.46
+"422",405,"Atsushi Nigorikawa","Katsuhiko Chiba",6,181,"Filler",0.48
+"423",406,"Fukutarou Hattori","Masahiro Hikokubo",5.8,182,"Filler",0.47
+"424",406,"Kazuya Iwata","Masahiro Hikokubo",5.8,182,"Filler",0.47
+"425",407,"Tokuji Kaneko","Masahiro Hikokubo",5.8,183,"Filler",0.47
+"426",408,"Tsuneo Tominaga","Shuto Tanaka",6.1,183,"Filler",0.49
+"427",408,"Tsuneo Tominaga","Yuka Miyata",6.1,183,"Filler",0.49
+"428",409,"Yoshinori Odaka","Shuto Tanaka",6.2,182,"Filler",0.5
+"429",409,"Yoshinori Odaka","Yuka Miyata",6.2,182,"Filler",0.5
+"430",410,"Kentarou Fujita","Junki Takegami",6.3,182,"Filler",0.51
+"431",411,"Masayuki Yamada","Junki Takegami",6.1,182,"Filler",0.49
+"432",412,"Tsuneo Tominaga","Junki Takegami",6.2,183,"Filler",0.5
+"433",413,"Kazunori Mizuno","Junki Takegami",6.5,186,"Filler",0.53
+"434",414,"Akira Shimizu","Katsuhiko Chiba",8.5,447,"Manga Canon",1.68
+"435",415,"Atsushi Nigorikawa","Shin Yoshida",8.1,343,"Manga Canon",1.23
+"436",416,"Kazuya Iwata","Shin Yoshida",7,229,"Filler",0.71
+"437",417,"Tokuji Kaneko","Shin Yoshida",8.1,297,"Filler",1.06
+"438",418,"Takuma Suzuki","Yasuyuki Suzuki",8.3,431,"Manga Canon",1.58
+"439",419,"Kentarou Fujita","Yasuyuki Suzuki",8.6,507,"Mixed Canon/Filler",1.92
+"440",420,"Masayuki Yamada","Yuka Miyata",9,852,"Manga Canon",3.39
+"441",421,"Kazunori Mizuno","Katsuhiko Chiba",9.5,1553,"Manga Canon",6.51
+"442",422,"Takuma Suzuki","Yuka Miyata",6.6,197,"Filler",0.57
+"443",423,"Akira Shimizu","Yuka Miyata",6.9,202,"Filler",0.62
+"444",424,"Tomokazu Iwasaki","Yasuyuki Suzuki",9.2,1001,"Manga Canon",4.07
+"445",425,"Ayataka Tanemura","Katsuhiko Chiba",8.9,692,"Manga Canon",2.72
+"446",425,"Kazuya Iwata","Katsuhiko Chiba",8.9,692,"Manga Canon",2.72
+"447",426,"Sumito Sasaki","Shuto Tanaka",8.3,368,"Mixed Canon/Filler",1.35
+"448",427,"Hiroyuki Tsuchiya","Yuka Miyata",5.8,211,"Filler",0.54
+"449",428,"Masayuki Yamada","Yuka Miyata",5.9,200,"Filler",0.52
+"450",429,"Yoshinobu Tokumoto","Katsuhiko Chiba",5.2,201,"Filler",0.46
+"451",430,"Kazunori Mizuno","Katsuhiko Chiba",5.2,198,"Filler",0.45
+"452",431,"Kiyoshi Murayama","Yuka Miyata",6.2,193,"Filler",0.53
+"453",432,"Akira Shimizu","Junki Takegami",5.6,185,"Filler",0.46
+"454",433,"Maki Odaira","Junki Takegami",5.5,183,"Filler",0.44
+"455",433,"Maki Odaira","Yasuyuki Suzuki",5.5,183,"Filler",0.44
+"456",434,"Takuma Suzuki","Junki Takegami",5,222,"Filler",0.49
+"457",434,"Takuma Suzuki","Yasuyuki Suzuki",5,222,"Filler",0.49
+"458",435,"Kazuya Iwata","Junki Takegami",5.2,188,"Filler",0.43
+"459",435,"Kazuya Iwata","Yasuyuki Suzuki",5.2,188,"Filler",0.43
+"460",436,"Ayataka Tanemura","Junki Takegami",5.3,190,"Filler",0.44
+"461",436,"Ayataka Tanemura","Yasuyuki Suzuki",5.3,190,"Filler",0.44
+"462",436,"Ayataka Tanemura","Yuka Miyata",5.3,190,"Filler",0.44
+"463",437,"Masayuki Yamada","Junki Takegami",5.2,190,"Filler",0.44
+"464",437,"Masayuki Yamada","Yasuyuki Suzuki",5.2,190,"Filler",0.44
+"465",438,"Kiyoshi Murayama","Junki Takegami",5.5,185,"Filler",0.45
+"466",438,"Kiyoshi Murayama","Yasuyuki Suzuki",5.5,185,"Filler",0.45
+"467",439,"Shinnosuke Imagawa","Junki Takegami",5.6,184,"Filler",0.45
+"468",439,"Shinnosuke Imagawa","Yasuyuki Suzuki",5.6,184,"Filler",0.45
+"469",440,"Kazunori Mizuno","Junki Takegami",5.7,187,"Filler",0.47
+"470",441,"Toshihiro Maeya","Yuka Miyata",5.3,188,"Filler",0.44
+"471",442,"Maki Odaira","Yuka Miyata",6,186,"Filler",0.49
+"472",443,"Yasuhiro Akamatsu","Yuka Miyata",5.7,186,"Filler",0.47
+"473",444,"Kazuya Iwata","Yasuyuki Suzuki",5.9,185,"Filler",0.48
+"474",445,"Ayataka Tanemura","Junki Takegami",5.5,187,"Filler",0.45
+"475",445,"Ayataka Tanemura","Yasuyuki Suzuki",5.5,187,"Filler",0.45
+"476",446,"Masayuki Yamada","Yasuyuki Suzuki",5.5,187,"Filler",0.45
+"477",447,"Toshihiro Maeya","Junki Takegami",5.5,188,"Filler",0.46
+"478",447,"Toshihiro Maeya","Yasuyuki Suzuki",5.5,188,"Filler",0.46
+"479",448,"Kiyoshi Murayama","Yasuyuki Suzuki",5.2,189,"Filler",0.43
+"480",449,"Takeyuki Yanase","Junki Takegami",4.9,232,"Filler",0.5
+"481",450,"Kazunori Mizuno","Yasuyuki Suzuki",6,190,"Filler",0.5
+"482",451,"Kazuya Iwata","Katsuhiko Chiba",7.7,309,"Mixed Canon/Filler",1.05
+"483",452,"Norihiko Nagahama","Katsuhiko Chiba",7.9,298,"Mixed Canon/Filler",1.04
+"484",453,"Maki Odaira","Masahiro Hikokubo",7.2,281,"Mixed Canon/Filler",0.89
+"485",454,"Yuusuke Onoda","Masahiro Hikokubo",7.9,297,"Mixed Canon/Filler",1.04
+"486",455,"Masahiko Murata","Katsuhiko Chiba",8.8,689,"Mixed Canon/Filler",2.68
+"487",456,"Kiyoshi Murayama","Katsuhiko Chiba",8,295,"Mixed Canon/Filler",1.04
+"488",457,"Shougo Arai","Katsuhiko Chiba",8.2,309,"Mixed Canon/Filler",1.12
+"489",458,"Masayuki Yamada","Katsuhiko Chiba",8.4,447,"Mixed Canon/Filler",1.66
+"490",459,"Hisashi Ishii","Masahiro Hikokubo",8.4,420,"Manga Canon",1.56
+"491",460,"Kazunori Mizuno","Shin Yoshida",7.6,288,"Mixed Canon/Filler",0.97
+"492",461,"Naoki Horiuchi","Shin Yoshida",7.9,291,"Mixed Canon/Filler",1.01
+"493",462,"Ayataka Tanemura","Shin Yoshida",8.2,311,"Mixed Canon/Filler",1.13
+"494",463,"Fujii Toshiro","Masahiro Hikokubo",8.4,430,"Manga Canon",1.59
+"495",464,"Kiyoshi Murayama","Shin Yoshida",7.7,251,"Filler",0.85
+"496",465,"Maki Odaira","Shin Yoshida",7.5,244,"Filler",0.81
+"497",466,"Masayuki Yamada","Shin Yoshida",7.4,239,"Filler",0.78
+"498",467,"Atsushi Nigorikawa","Shin Yoshida",7.7,242,"Filler",0.82
+"499",468,"Kazuya Iwata","Shin Yoshida",8.1,298,"Filler",1.07
+"500",469,"Masayuki Kouda","Shuto Tanaka",7.9,325,"Filler",1.13
+"501",470,"Masaaki Kumagai","Katsuhiko Chiba",8.5,494,"Manga Canon",1.85
+"502",471,"Naoki Horiuchi","Yuka Miyata",8.3,386,"Mixed Canon/Filler",1.41
+"503",472,"Kazunori Mizuno","Yuka Miyata",8.6,658,"Mixed Canon/Filler",2.5
+"504",473,"Kiyoshi Murayama","Yuka Miyata",8.9,836,"Manga Canon",3.28
+"505",474,"Masahiko Murata","Masahiro Hikokubo",9.5,1773,"Manga Canon",7.44
+"506",475,"Yoshihiro Sugai","Katsuhiko Chiba",8.6,773,"Manga Canon",2.93
+"507",476,"Hiroyuki Yamashita","Yuka Miyata",9.5,2136,"Manga Canon",8.96
+"508",477,"Hiroyuki Yamashita","Yuka Miyata",9.7,3824,"Manga Canon",16.37
+"509",478,"Toshiyuki Tsuru","Yasuaki Kurozu",9.4,1760,"Mixed Canon/Filler",7.3
+"510",479,"Hayato Date","Yasuaki Kurozu",9,1017,"Mixed Canon/Filler",4.04
+"511",480,"Osamu Kobayashi","Osamu Kobayashi",7.2,354,"Filler",1.13
+"512",481,"Mitsuto Yamaji","Osamu Kobayashi",6.4,296,"Filler",0.84
+"513",482,"Osamu Sekita","Osamu Kobayashi",6.5,291,"Filler",0.84
+"514",483,"Taisuke Mamoru","Osamu Kobayashi",6.6,291,"Filler",0.85
+"515",484,"Chiaki Kon","Masanao Akahoshi",7.2,341,"Manga Canon",1.08
+"516",485,"Ayumi Ono","Masanao Akahoshi",7.3,333,"Manga Canon",1.07
+"517",486,"Shingo Okano","Masanao Akahoshi",7.2,323,"Manga Canon",1.03
+"518",487,"Osamu Sekita","Masanao Akahoshi",6.9,324,"Manga Canon",0.99
+"519",488,"Chiaki Kon","Masanao Akahoshi",7.7,390,"Manga Canon",1.33
+"520",489,"Toshinori Watanabe","Masaya Honda",7.3,339,"Manga Canon",1.09
+"521",490,"Taiji Kawanishi","Masaya Honda",6.9,320,"Manga Canon",0.97
+"522",491,"Naoki Hishikawa","Masaya Honda",6.9,315,"Manga Canon",0.96
+"523",492,"Masayuki Matsumoto","Masaya Honda",7,316,"Manga Canon",0.98
+"524",493,"Toshinori Watanabe","Masaya Honda",7.2,325,"Manga Canon",1.03
+"525",494,"Michisoku Matsuda","Kento Shimoyama",7.1,331,"Manga Canon",1.04
+"526",495,"Masahiko Murata","Kento Shimoyama",6.6,346,"Manga Canon",1.01
+"527",496,"Yoshihiro Sugai","Kento Shimoyama",7.3,346,"Manga Canon",1.12
+"528",497,"Maki Odaira","Kento Shimoyama",7,331,"Manga Canon",1.02
+"529",498,"Naoki Horiuchi","Kento Shimoyama",6.5,337,"Manga Canon",0.97
+"530",499,"Kazunori Mizuno","Kento Shimoyama",7.4,358,"Manga Canon",1.17
+"531",500,"Masahiko Murata","Kento Shimoyama",9,1496,"Manga Canon",5.94
