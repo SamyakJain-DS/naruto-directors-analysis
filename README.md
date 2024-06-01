@@ -1,34 +1,31 @@
-# 2D Platformer Game Using PyGame.
+# Naruto Directors & Writers Rating Analysis.
+
+Fun study on Naruto, one of my childhood favourites.
 
 ## Objective
 
-To make a small 2D pokemon themed mario type platformer game using python, and its library PyGame.
-This was originally our college final semester python project.
+I wanted to analyse all episodes of Naruto Shippuden and find out which directors and writes got the highest ratings, also wanted to find the type of episodes which got the better ratings (out of Canon, Mixed or Fillers) 
 
 ### Skills Learned
 
-- PyGame Library
-- Advanced Python Debugging
-- Advanced Python Problem Solving
-- Files and Folder Management
+- Documenting an analysis
+- Excel
+- Data Collection
+- Data Analysis
+- Data Visualisation
+- Tableau
 
-## The Game (Output)
+## Visualisations
 
-![instructions](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/279b2283-945d-4b68-bb1b-0f40df33bdd1)
+![Directors](https://github.com/SamyakJain-DS/naruto-directors-analysis/assets/142383509/e46ced5a-480b-4a64-8310-19c81756abc8)
+![Writers](https://github.com/SamyakJain-DS/naruto-directors-analysis/assets/142383509/7d64a837-d008-40a4-b97b-cd026dd73413)
+![Type](https://github.com/SamyakJain-DS/naruto-directors-analysis/assets/142383509/cf1955ac-1b69-43ce-bdab-93d53d7c3c1f)
 
-![credits](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/9c3b50a9-d4c0-43f6-aa58-3e76b285ccda)
 
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/fb399c26-3554-45b4-bdb1-59cbe84ce510
-
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/e30d7969-a794-4699-ac99-9ee0bf9455d5
-
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/588c5f51-1642-41ce-a12a-02ce2f2a87e8
-
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/35caafbb-6594-4fbb-9d43-54775aa7fba0
-
-![lose screen](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/41bdaa62-e1d1-4584-9f65-b3099bc3af59)
 
 ### Tools Used
 
-- Python
-- PyGame Library
+- Excel
+- Tableau
+- R
+- Word
