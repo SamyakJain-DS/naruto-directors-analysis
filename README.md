@@ -34,4 +34,3 @@ I wanted to analyse all episodes of Naruto Shippuden and find out which director
 - Excel
 - Tableau
 - R
-- Word
