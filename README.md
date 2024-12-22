@@ -1,4 +1,4 @@
-# THE THIRD PROJECT : Naruto Directors & Writers Rating Analysis.
+# Naruto Directors & Writers Rating Analysis.
 
 Fun study on Naruto, one of my childhood favourites.
 
